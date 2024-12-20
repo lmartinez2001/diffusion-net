@@ -53,3 +53,11 @@ pyrightconfig.json
 *.exe
 *.out
 *.app
+
+
+# saved models
+saved_*/
+*.log
+private.yml
+op_cache/
+sig17_seg_benchmark
