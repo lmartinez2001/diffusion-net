@@ -56,7 +56,7 @@ pyrightconfig.json
 
 
 # saved models
-saved_*/
+saved_models*/
 *.log
 private.yml
 op_cache/
