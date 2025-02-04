@@ -1,5 +1,9 @@
 # DiffusionNet : Geometric Data Analysis (MVA)
 
+<p align="center">
+  <img src="saved_figures/main_figure.png"/>
+</p>
+
 *Contributors* : 
 - Géraud Ilinca (Télécom Paris)
 - Hadrien Levéchin (Talacom Paris)
