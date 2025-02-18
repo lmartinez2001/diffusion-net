@@ -1,13 +1,13 @@
-# DiffusionNet : Geometric Data Analysis (MVA)
-
 <p align="center">
   <img src="saved_figures/main_figure.png"/>
 </p>
 
+# DiffusionNet : Geometric Data Analysis (MVA)
+
 *Contributors* : 
-- Géraud Ilinca (Télécom Paris)
-- Hadrien Levéchin (Talacom Paris)
-- Louis Martinez (Télécom Paris)
+- [Géraud Ilinca](https://www.linkedin.com/in/geraud-ilinca/) (Télécom Paris)
+- [Hadrien Levéchin](https://www.linkedin.com/in/hadrien-levechin/) (Télécom Paris)
+- [Louis Martinez](https://www.linkedin.com/in/louis-martinez-5586b71b7/) (Télécom Paris)
 
 In this project, we propose an in-depth exploration of some of the key results and theoretical elements of the paper ["DiffusionNet: Discretization Agnostic Learning on Surfaces"](https://arxiv.org/abs/2012.00888), by 
 - [Nicholas Sharp](https://nmwsharp.com/)
